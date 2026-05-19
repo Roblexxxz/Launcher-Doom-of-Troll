@@ -1,5 +1,7 @@
 {main}
-           "Branch"
-   [newvaraible]
+"Branch"
+ [newvaraible]
+  (interval)
    {troll}
    .fish
+code.fish = newvariable 
