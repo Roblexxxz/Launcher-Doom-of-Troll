@@ -2,4 +2,7 @@
    [main]
   [gitconnect]
   "troll"
-  {newvariable}
+   {newvariable}
+   .new/c.fish
+   import.launcher.c
+   troll.interval{function(troll
