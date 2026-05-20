@@ -1,0 +1,9 @@
+[main]{c}
+  {launcher}
+launcher.connect/wifi:connect/ip
+    launcher/service/server/multiplayer.server/service/friends/wifi/connect
+    launcherService.load/localstore
+    localService.store/multiplayer.multiplayer/engine"
+  launcher:CONNECTSERVICEDATA/Data.load"
+    connect.wifi/ip.connect:else/network/wifi.network
+    main.launcher/service.ip/connectService.load
