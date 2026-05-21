@@ -5,3 +5,5 @@
 [json]
    php.databack.document.domains:
 json.phpdataback.launcher
+asm.new = import.fish
+:fish.fish = h reverse
